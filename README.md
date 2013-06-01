@@ -1,4 +1,1 @@
-hanoi-scala
-===========
-
-Towers of Hanoi implementation in Scala.
+Towers of Hanoi recursive implementation in Scala

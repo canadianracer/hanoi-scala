@@ -1,0 +1,7 @@
+.classpath
+/.project
+/.cache
+/.settings
+/bin
+/bin-test-lib
+target/
